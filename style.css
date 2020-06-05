@@ -1,0 +1,84 @@
+body{
+    background-color: #c5bbb4;
+}
+
+
+.navbar {
+    background-color: #f47d20 !important;
+    color: #331702;
+    
+}
+
+
+.navbar-text{
+    font-weight: bold;
+    
+}
+
+
+.carousel-item{
+    width: 100%;
+    height: 550px;
+}
+
+.card{
+    border: 2px solid #f47d20;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    width: 30% !important;
+    height: auto;
+    display: inline-block;
+}
+
+.btn{
+    background-color: #f47d20 !important;
+    color: #331702;
+    font-weight: bold;
+    border: 1px solid #331702;
+    
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+    color: #331702;
+    text-decoration: underline dashed;
+    font-family: Shonar Bangla;
+    font-weight: bold;
+    
+}
+.box .card{
+    width: 45% !important;
+    border:2px solid #f47d20;
+}
+
+.row{
+    margin-top: 50px;
+}
+
+.bar{
+}
+
+.bar .card{
+    width: 70% !important;
+    margin-left: 15%;
+    height: auto;
+    font-size: 20px;
+    background-color: black;
+    color: blanchedalmond;
+    border: 4px dotted whitesmoke !important;
+    text-align: justify;
+}
+
+form{
+    border: 2px dashed black;
+    width: 65% !important;
+    margin: 40px;
+    margin-left: 18%;
+}
+
+#map img{
+    margin-left: 20%;
+}
